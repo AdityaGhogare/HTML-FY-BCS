@@ -1,0 +1,3 @@
+The pdf file contain all the 15 slips in which there are questions..
+and all answer is provided in html files slipwise by there name...
+this are some of the basic html programs.
